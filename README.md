@@ -1,4 +1,4 @@
-# 🚀 Dashboard de Usuarios
+#  Dashboard de Usuarios
 
 > Sistema de gestión de usuarios con integración WordPress, desarrollado con Next.js y Express
 
@@ -6,11 +6,11 @@
 [![Next.js Version][next-version]][next-url]
 [![License][license-image]][license-url]
 
-## 📋 Descripción
+##  Descripción
 
 Dashboard de Usuarios es una aplicación web full-stack que proporciona una interfaz moderna y eficiente para la gestión de usuarios, con integración directa a WordPress mediante un plugin personalizado. El sistema permite realizar operaciones CRUD completas sobre usuarios con una experiencia de usuario fluida y responsiva.
 
-## ✨ Características Principales
+##  Características Principales
 
 - 🔐 Gestión completa de usuarios (CRUD)
 - 🎨 Interfaz moderna con Tailwind CSS
@@ -38,7 +38,7 @@ Dashboard de Usuarios es una aplicación web full-stack que proporciona una inte
 - PHP
 - WordPress REST API
 
-## 📦 Estructura del Proyecto
+##  Estructura del Proyecto
 
 \`\`\`
 dashboard-usuarios/
@@ -60,7 +60,7 @@ dashboard-usuarios/
     └── dashboard-usuarios.php
 \`\`\`
 
-## ⚙️ Instalación
+##  Instalación
 
 ### Requisitos Previos
 
@@ -108,7 +108,7 @@ npm run dev
 - Copiar la carpeta \`wordpress-plugin\` a \`wp-content/plugins/\` de tu instalación WordPress
 - Activar el plugin desde el panel de administración de WordPress
 
-## 🚀 Uso
+##  Uso
 
 1. Accede a la aplicación en \`http://localhost:3000\`
 2. Utiliza la interfaz para:
@@ -117,11 +117,11 @@ npm run dev
    - Editar usuarios existentes
    - Eliminar usuarios
 
-## 📸 Capturas de Pantalla
+##  Capturas de Pantalla
 
 [AGREGAR IMÁGENES]
 
-## 🤝 Contribución
+##  Contribución
 
 1. Fork el proyecto
 2. Crea tu rama de características (\`git checkout -b feature/AmazingFeature\`)
@@ -129,7 +129,7 @@ npm run dev
 4. Push a la rama (\`git push origin feature/AmazingFeature\`)
 5. Abre un Pull Request
 
-## 📝 Licencia
+##  Licencia
 
 Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE.md](LICENSE.md) para más detalles.
 
@@ -141,13 +141,6 @@ Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE.md](LICENSE.m
 * GitHub: [@germanhemelb](https://github.com/GodoyGerman)
 * LinkedIn: [Germán Hemelber Godoy Barragan](https://www.linkedin.com/in/german-h-godoy-barragan-1a909b196/)
 
-## 🗺️ Roadmap
-
-- [ ] Implementación de autenticación OAuth
-- [ ] Panel de administración extendido
-- [ ] Integración con más CMS además de WordPress
-- [ ] Soporte para múltiples idiomas
-- [ ] Sistema de roles y permisos
 
 ## ❓ FAQ
 
