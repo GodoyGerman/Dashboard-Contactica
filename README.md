@@ -137,7 +137,7 @@ Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE.md](LICENSE.m
 
 **Ing. Germán Hemelber Godoy Barragan**
 
-* Website: [[Portafolio](https://portafoliogermangodoy.netlify.app/)L]
+* Website: [[Portafolio](https://portafoliogermangodoy.netlify.app/)]
 * GitHub: [@germanhemelb](https://github.com/GodoyGerman)
 * LinkedIn: [Germán Hemelber Godoy Barragan](https://www.linkedin.com/in/german-h-godoy-barragan-1a909b196/)
 
