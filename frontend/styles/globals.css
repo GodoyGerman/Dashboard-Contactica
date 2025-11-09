@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html, body, #__next {
+    @apply h-full;
+  }
+  
+  body {
+    @apply text-gray-800 m-0 font-sans;
+  }
+
+  input, button {
+    @apply p-2 border border-gray-300 rounded;
+  }
+
+  button {
+    @apply cursor-pointer;
+  }
+}

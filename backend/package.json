@@ -1,0 +1,24 @@
+{
+  "name": "dashboard-usuarios-backend",
+  "version": "1.0.0",
+  "description": "API backend para Dashboard Usuarios usando Express y Prisma",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "nodemon src/server.js",
+    "prisma:generate": "prisma generate",
+    "prisma:migrate": "prisma migrate dev --name init"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "@prisma/client": "^5.10.1"
+  },
+  "devDependencies": {
+    "prisma": "^5.10.1",
+    "nodemon": "^2.0.22"
+  }
+}
